@@ -65,7 +65,7 @@ disqus: # fromendworld
 gitalk:
   clientID: 5f29086b025d604bea8a
   clientSecret: 46a20108e3d3c4f26b3c4e1972ca278e3322c904
-  repo: seagullz4.github.io
+  repo: https://seagullz4.github.io/
   owner: seagullz4
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
